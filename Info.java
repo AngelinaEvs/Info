@@ -1,5 +1,3 @@
-//Java
-
 public class Info {
     public static void main(String[] args) {
         System.out.printf("%19s%4s%s%n", "Цель:", " ", "хочу стать хорошим программистом");
